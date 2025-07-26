@@ -1,9 +1,6 @@
 # AI-IN-FINANCE-STOCK-MARKET-PREDICTION
 Simply understanding stock market prediction with examples
 
-Absolutely, Pranjit! Below is a detailed explanation of every **library**, **function**, **entity**, and **approach** used in your **AI-based stock market prediction project**, with thorough emphasis on **why** and **how** they are used.
-
----
 
 # 📚 In-Depth Explanation of the AI-IN-FINANCE-STOCK-MARKET-PREDICTION Project
 
@@ -236,6 +233,3 @@ from tensorflow.keras.layers import Dense, Dropout, LSTM
 * Can be **extended** to more advanced architectures (e.g., Attention, Transformers).
 * **Modular** design makes it ideal for transfer to other domains (e.g., antenna design, weather prediction).
 
----
-
-Would you like me to package this explanation as a supplementary section in your GitHub `README.md` or as a separate file like `docs/architecture.md`?
